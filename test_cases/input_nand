@@ -1,0 +1,1 @@
+(and (nand x1 x2) (nand (1 = 1) x2))

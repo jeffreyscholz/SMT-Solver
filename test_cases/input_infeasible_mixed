@@ -1,0 +1,1 @@
+(and (and (or (not x2) (a >= 2)) x2) (a <= 0))

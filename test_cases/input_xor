@@ -1,0 +1,1 @@
+(and (xor x1 x2) (xor (not x1) x2))
